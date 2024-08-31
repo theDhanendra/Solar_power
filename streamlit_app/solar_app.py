@@ -169,8 +169,8 @@ if st.session_state.show_developer_info:
     {
         "name": "Ankita",
         "photo": "images/ankita.png",
-        "student_code": "SC002",
-        "linkedin": "https://www.linkedin.com/in/person2/",
+        "student_code": "ft37_790",
+        "linkedin": "https://www.linkedin.com/in/ankita-lokhande-b793a8280",
         "github": "https://github.com/person2"
     },
     { 
