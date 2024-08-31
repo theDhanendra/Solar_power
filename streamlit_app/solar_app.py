@@ -85,8 +85,8 @@ st.markdown(
 # Load the dataset
 @st.cache_data
 def load_data():
-    df1 = pd.read_csv(r'streamlit_app\plant1_cleaned_data_with_day.csv')
-    df2 = pd.read_csv(r'streamlit_app\plant2_cleaned_data_with_day.csv')
+    df1 = pd.read_csv('streamlit_app/plant1_cleaned_data_with_day.csv')
+    df2 = pd.read_csv('streamlit_app/plant2_cleaned_data_with_day.csv')
     return df1, df2
 
 df1, df2 = load_data()
