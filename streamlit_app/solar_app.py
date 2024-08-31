@@ -171,7 +171,7 @@ if st.session_state.show_developer_info:
         "photo": "images/ankita.png",
         "student_code": "ft37_790",
         "linkedin": "https://www.linkedin.com/in/ankita-lokhande-b793a8280",
-        "github": "https://github.com/person2"
+        "github": "https://github.com/Ankital237"
     },
     { 
         "name": "Yarlagadda Sreeram",
