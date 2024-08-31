@@ -199,7 +199,7 @@ if st.session_state.show_developer_info:
         "photo": "images/arafat.png",
         "student_code": "ft37_850",
         "linkedin": "https://www.linkedin.com/in/arafat-khan-4644b7314/",
-        "github": "https://www.linkedin.com/in/arafat-khan-4644b7314/"
+        "github": "https://github.com/Khanarafat01"
     }
     ]
     # used to create a space between title and header
