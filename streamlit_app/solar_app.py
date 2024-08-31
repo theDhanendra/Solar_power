@@ -168,35 +168,35 @@ if st.session_state.show_developer_info:
     
     {
         "name": "Ankita",
-        "photo": "../images/ankita.png",
+        "photo": "images/ankita.png",
         "student_code": "SC002",
         "linkedin": "https://www.linkedin.com/in/person2/",
         "github": "https://github.com/person2"
     },
     { 
         "name": "Yarlagadda Sreeram",
-        "photo": "../images/shreeram.png",
+        "photo": "images/shreeram.png",
         "student_code": "ft37_208",
         "linkedin": "https://www.linkedin.com/in/sreeram-yarlagadda-48a7442ab",
         "github": "https://github.com/Sreeram110"
     },
     {
         "name": "Dhandendra",
-        "photo": "../images/Dhanendra.png",
+        "photo": "images/Dhanendra.png",
         "student_code": "ft37_478",
         "linkedin": "https://www.linkedin.com/in/dhanendra-kumar-thedhanendra/",
         "github": "https://github.com/theDhanendra"
     },
     {
         "name": "Ashish Dabas",
-        "photo": "../images/ashish.png",
+        "photo": "images/ashish.png",
         "student_code": "ft37_855",
         "linkedin": "https://www.linkedin.com/in/ashish-dabas-95b4ab267",
         "github": "https://github.com/AshuSingh96"
     },
     {
         "name": "Arafat Khan",
-        "photo": "../images/arafat.png",
+        "photo": "images/arafat.png",
         "student_code": "ft37_850",
         "linkedin": "https://www.linkedin.com/in/arafat-khan-4644b7314/",
         "github": "https://www.linkedin.com/in/arafat-khan-4644b7314/"
@@ -276,8 +276,8 @@ else:
         st.markdown("<h1 style='text-align: left; font-size: 36px;'>Solar Power Generation Forecast System</h1>", unsafe_allow_html=True)
     
         #image paths
-        image_path_1 = "../images/solar_power_bg.jpg"
-        image_path_2 = "../images/solar power _ds.jpg"
+        image_path_1 = "images/solar_power_bg.jpg"
+        image_path_2 = "images/solar power _ds.jpg"
         # open images using PIL
         image1 = Image.open(image_path_1)
         image2 = Image.open(image_path_2)
