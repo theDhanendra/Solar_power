@@ -17,7 +17,7 @@ def load_logo(image_path):
     img_str = base64.b64encode(buffered.getvalue()).decode()
     return img_str
 
-img_str = load_logo(r'C:\Users\dhane\Desktop\DAc\solar_power\images\logo.jpeg')
+img_str = load_logo('images/logo.jpeg')
  
 # Adjustment of header 
 st.markdown(
@@ -85,8 +85,8 @@ st.markdown(
 # Load the dataset
 @st.cache_data
 def load_data():
-    df1 = pd.read_csv(r'C:\Users\dhane\Desktop\DAc\solar_power\streamlit_app\plant1_cleaned_data_with_day.csv')
-    df2 = pd.read_csv(r'C:\Users\dhane\Desktop\DAc\solar_power\streamlit_app\plant2_cleaned_data_with_day.csv')
+    df1 = pd.read_csv(r'streamlit_app\plant1_cleaned_data_with_day.csv')
+    df2 = pd.read_csv(r'streamlit_app\plant2_cleaned_data_with_day.csv')
     return df1, df2
 
 df1, df2 = load_data()
