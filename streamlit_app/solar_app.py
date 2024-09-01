@@ -295,7 +295,7 @@ else:
         with col2:
             st.image(image_path_2, caption="Process of Solar Power Genration",use_column_width=True)
 
-        st.write("""The project Solar Power Generation Prediction focuses on analyzing data from two differnt solar power plants.
+        st.write("""The project Solar Power Generation focuses on analyzing data from two differnt solar power plants.
                 The project aims to address key concerns at the solar power plant, including predicting power generation for the next few days. 
                 In the context of solar power generation, when photons interact with photovoltaic cells, they excite electrons, leading to the production of direct current (DC) energy.
                 Subsequently, inverters are utilized to convert this DC power into alternating current (AC) for distribution and use in various networks, aligning with the design of buildings for AC transport and utilization.""")
