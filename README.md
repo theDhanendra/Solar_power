@@ -1,8 +1,8 @@
 delete this to after making changes 
-1.change the link of line 12
-2.paste the github repo link in line 42
-3. make a new requirements.txt by adding the dependencies I've mentioned in line 54 to 62
-4.change the sapp.py as per our file name
+- 1.change the link of line 12
+- 2.paste the github repo link in line 42
+- 3. make a new requirements.txt by adding the dependencies I've mentioned in line 54 to 62
+- 4.change the sapp.py as per our file name
 
 # <img src="https://github.com/AshuSingh96/llm-examples/blob/main/solar_fusion.png" alt="Solar Fusion logo" style="margin-left: 20px; margin-top: 20px; width: 80px;"></img>  Solar Power Insights Dashboard
 # <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-right: 20px; width: auto;"> Using Streamlit
