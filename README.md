@@ -1,15 +1,9 @@
-delete this to after making changes 
-- 1.change the link of line 12
-- 2.paste the github repo link in line 42
-- 3. make a new requirements.txt by adding the dependencies I've mentioned in line 54 to 62
-- 4.change the sapp.py as per our file name
-
 # <img src="https://github.com/AshuSingh96/llm-examples/blob/main/solar_fusion.png" alt="Solar Fusion logo" style="margin-left: 20px; margin-top: 20px; width: 80px;"></img>  Solar Power Insights Dashboard
 # <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-right: 20px; width: auto;"> Using Streamlit
 
 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)
+[**Open Solar Power in Streamlit**](https://solarpower-yu5kgl8v6gp4rdwcfolhq5.streamlit.app/)
 
 This project is a Solar Power Insights Dashboard developed using Streamlit. The dashboard provides interactive visualizations and insights into solar power generation data about 2 Plants and compares the powers.
 
@@ -39,31 +33,21 @@ To run this dashboard locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/solar-power-insights-dashboard.git
+   git clone https://github.com/theDhanendra/solar_power.git
    ```
    
 2. **Navigate to the project directory:**
    ```bash
-   cd solar-power-dashboard
+   cd streamlit_app/solar_app.py
    ```
    
 3. **Install the required dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-# add them to requirements.txt
-- streamlit==1.26.0
-- pandas==2.1.0
-- numpy==1.25.2
-- matplotlib==3.7.2
-- seaborn==0.12.2
-- Pillow==10.0.1
-- plotly==5.16.1
-- scikit-learn==1.3.1
-
 4. **Run the Streamlit app:**
    ```bash
-   streamlit run sapp.py
+   streamlit run solar_app.py
    ```
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://solarpower-yu5kgl8v6gp4rdwcfolhq5.streamlit.app/)
 
@@ -82,6 +66,3 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 - The dataset used in this project is provided by Anil Annal on Kaggle. You can find more information about the dataset [here](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data).
 
 ---
-
-
- 
