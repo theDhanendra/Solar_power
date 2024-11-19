@@ -1,0 +1,3 @@
+# Treat Python and SQL files as detectable
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
