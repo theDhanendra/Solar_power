@@ -1,4 +1,4 @@
-# <img src="https://github.com/AshuSingh96/llm-examples/blob/main/solar_fusion.png" alt="Solar Fusion logo" style="margin-left: 20px; margin-top: 20px; width: 80px;"></img>  Solar Power Insights Dashboard
+# Solar Power Insights Dashboard
 # <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo" style="margin-right: 20px; width: auto;"> Using Streamlit
 
 
