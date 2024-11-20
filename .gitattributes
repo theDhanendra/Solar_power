@@ -1,3 +1,8 @@
-# Treat Python and SQL files as detectable
 *.py linguist-detectable=true
 *.ipynb linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+
+*.cpp linguist-detectable=false
+*.cmake linguist-detectable=false
+*.c linguist-detectable=false
