@@ -51,6 +51,14 @@ To run this dashboard locally, follow these steps:
    ```
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://solarpower-yu5kgl8v6gp4rdwcfolhq5.streamlit.app/)
 
+## Create Virtual Environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
+```
+
 ## Usage
 
 Once the app is running, you can access the dashboard via your web browser. The dashboard provides an interface to explore the solar power generation data interactively. You can filter the data based on specific criteria and visualize trends over time.
