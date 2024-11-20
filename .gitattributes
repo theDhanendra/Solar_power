@@ -2,3 +2,5 @@
 *.ipynb linguist-language=Jupyter Notebook
 *.html linguist-language=HTML
 *.css linguist-language=CSS
+
+venv/* linguist-detectable=false
